@@ -5,7 +5,7 @@ This is a program that allows you to add to, edit, display and delete Finnish co
 This started as a school project, but I have afterward, on my own, modified and expanded it. This is partly out of interest to revisit an old project, but also to put it on public display in the search for a job in the field of programming.
 
 ## Build status
-This is version 1.1. A major bug has been removed that was present in the 1.0 release version.
+This is version 1.1. A major bug has been removed that was present in the 1.0 release version. I may add a graphical user interface later.
 
 ## Code style
 This program has been coded entirely with Java.
